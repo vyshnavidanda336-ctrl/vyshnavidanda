@@ -32,5 +32,5 @@ I design, deploy, and maintain scalable cloud infrastructure using automation, K
 
 ## 📈 GitHub Stats
 
-![vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshnavidanda&show_icons=true&theme=radical)
+![vyshnavi's GitHub stats](https://github-readme-stats.vercel.app/api?username=vyshnavidanda336-ctrl&show_icons=true&theme=radical)
 
