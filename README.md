@@ -12,4 +12,4 @@ Programming: Python, Bash, Kotlin
 Monitoring: Prometheus, Grafana, ELK  
 
 ## 📫 Connect
-[LinkedIn]www.linkedin.com/in/vyshnavi-danda-a9b023394| [Email](mailto:vyshnavidanda336@gmail.com)
+[LinkedIn]www.linkedin.com/in/vyshnavi-danda-a9b023394| [Email](vyshnavidanda336@gmail.com)
