@@ -18,9 +18,9 @@ I design, deploy, and maintain scalable cloud infrastructure using automation, K
 
 ## 🚀 Featured Projects
 
-- [BlueStack - Cloud Enablement Platform](https://github.com/VyshnaviDanda/blueStack)  
-- [Kubernetes Deployment Scripts](https://github.com/VyshnaviDanda/k8s-deployment-scripts)  
-- [Cloud Automation Utilities](https://github.com/VyshnaviDanda/cloud-automation-utils)  
+- [BlueStack - Cloud Enablement Platform](https://github.com/vyshnavidanda336-ctrl/blueStack)  
+- [Kubernetes Deployment Scripts](https://github.com/vyshnavidanda336-ctrl/k8s-deployment-scripts)  
+- [Cloud Automation Utilities](https://github.com/vyshnavidanda336-ctrl/cloud-automation-utils)  
 
 ---
 
